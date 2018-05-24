@@ -1,0 +1,39 @@
+@charset "ISO-8859-1";
+
+.body{
+	padding-top: 70px;
+	margin-top: 30px;
+	border: 2px solid cornflowerblue;
+	
+}
+.ct_border{
+	margin-top: -40px;
+    margin-bottom: 24px;
+}
+.ct_image img{
+	width: 320px;
+	height: 450px;
+	margin-left: 20px;
+	margin-bottom: 28px;
+    margin-top: -40px;
+}
+.ct_name{
+	font-size: 30px;
+	font-family: fantasy;
+	color : red;
+}
+.ct_info{
+	border: 2px solid cornflowerblue;
+    width: 440px;
+    padding-left: 20px;
+    margin-top: 10px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+}
+.col-md-8{
+	margin-top :-50px
+}
+.ct_decribe{
+	margin-top: 91px;
+    margin-right: 85px;
+}
